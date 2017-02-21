@@ -1,0 +1,33 @@
+.error{
+  color:red;
+}
+
+.ToBuyDiv{
+
+  width:50%;
+  float:left;
+
+}
+
+.BoughtDiv{
+
+  margin-left:100px;
+}
+
+ol {
+ list-style-type: square;
+ list-style-position: outside;
+ list-style-image: none;
+}
+
+button {
+    width: 60px;
+
+    background-color: #4CAF50;
+    color: white;
+    padding: 1px 1px;
+    margin: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
